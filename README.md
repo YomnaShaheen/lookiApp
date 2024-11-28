@@ -39,18 +39,18 @@ Built interactive prototypes to simulate real user experience.
 
 ## Deliverables
 The following resources are available for preview and download:
-Prototypes
-Interactive Prototype Video: 
+**Prototypes
+*Interactive Prototype Video: 
 (https://drive.google.com/file/d/1IFC0htFEvVU6AhCazKEnMvrNHyalJe-j/view?usp=drivesdk)
-Design Mode
+*Design Mode
 Light Mode: 
 (https://drive.google.com/file/d/1CslK6eOwfyiNuGjVg6L0ba23L359ijoe/view?usp=drivesdk)
 Dark Mode:  
 (https://drive.google.com/file/d/1Y_BurwtoHOB9faT1ByHT-TGXLcR0fV_f/view?usp=drivesdk)
-Language Support
+*Language Support
 Arabic Version: 
 (https://drive.google.com/file/d/1OIq1-gI7ypGriOdYqQ6vfoQMT374VlRw/view?usp=drivesdk)
-Project Presentation (PDF): 
+*Project Presentation (PDF): 
 (https://drive.google.com/file/d/1Ne5yKU6ax5fWU1AKTq9eb8Eah2sS28mD/view?usp=drivesdk)
 
 ## Contact
