@@ -11,13 +11,13 @@ Looki Project
 - *pages...
 - *Reusable Components:* Buttons, Icons, Templates
 - ## Links
-- <Dark mode>
+- Dark mode
 - https://drive.google.com/file/d/1Y_BurwtoHOB9faT1ByHT-TGXLcR0fV_f/view?usp=drivesdk
-- <Presentaion>
+- Presentaion
 - https://drive.google.com/file/d/1Ne5yKU6ax5fWU1AKTq9eb8Eah2sS28mD/view?usp=drivesdk
-- <Light mode>
+- Light mode
 - https://drive.google.com/file/d/1CslK6eOwfyiNuGjVg6L0ba23L359ijoe/view?usp=drivesdk
-- <Arabic>
+- Arabic
 - https://drive.google.com/file/d/1OIq1-gI7ypGriOdYqQ6vfoQMT374VlRw/view?usp=drivesdk 
 
 ## 🔗 How to Access
