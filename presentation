@@ -2,3 +2,5 @@ git lfs track "*.fig
 git add .
 git commit -m "Add Looki project"
 git push origin main
+git add .gitattributes
+git add <C:\Figma\Looki>
