@@ -40,19 +40,26 @@ Built interactive prototypes to simulate real user experience.
 ## Deliverables
 The following resources are available for preview and download:
 Prototypes
-Interactive Prototype Video: (https://drive.google.com/file/d/1IFC0htFEvVU6AhCazKEnMvrNHyalJe-j/view?usp=drivesdk)
+Interactive Prototype Video: 
+(https://drive.google.com/file/d/1IFC0htFEvVU6AhCazKEnMvrNHyalJe-j/view?usp=drivesdk)
 Design Mode
-Light Mode:  (https://drive.google.com/file/d/1CslK6eOwfyiNuGjVg6L0ba23L359ijoe/view?usp=drivesdk)
-Dark Mode:  (https://drive.google.com/file/d/1Y_BurwtoHOB9faT1ByHT-TGXLcR0fV_f/view?usp=drivesdk)
+Light Mode: 
+(https://drive.google.com/file/d/1CslK6eOwfyiNuGjVg6L0ba23L359ijoe/view?usp=drivesdk)
+Dark Mode:  
+(https://drive.google.com/file/d/1Y_BurwtoHOB9faT1ByHT-TGXLcR0fV_f/view?usp=drivesdk)
 Language Support
-Arabic Version:  (https://drive.google.com/file/d/1OIq1-gI7ypGriOdYqQ6vfoQMT374VlRw/view?usp=drivesdk)
-Complete Presentation
-Project Presentation (PDF): (https://drive.google.com/file/d/1Ne5yKU6ax5fWU1AKTq9eb8Eah2sS28mD/view?usp=drivesdk)
+Arabic Version: 
+(https://drive.google.com/file/d/1OIq1-gI7ypGriOdYqQ6vfoQMT374VlRw/view?usp=drivesdk)
+Project Presentation (PDF): 
+(https://drive.google.com/file/d/1Ne5yKU6ax5fWU1AKTq9eb8Eah2sS28mD/view?usp=drivesdk)
 
 ## Contact
 For inquiries, collaborations, or feedback, please contact:
 Yumna Shaheen
-LinkedIn: https://www.linkedin.com/in/yomna-shaheen106?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Behance: https://www.behance.net/kokbb
-Email: yomnashaheen6@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/yomna-shaheen106?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Behance: 
+https://www.behance.net/kokbb
+Email:
+yomnashaheen6@gmail.com
 
